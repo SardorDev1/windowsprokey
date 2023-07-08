@@ -1,0 +1,4 @@
+windows 10 pro activation 
+1. slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+2. slmgr /skms kms.srv.crsoo.com
+3. Slmgr /ato
